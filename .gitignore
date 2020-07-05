@@ -1,0 +1,6 @@
+package-lock.json
+build/*
+.cache/*
+dist/*
+node_modules
+coverage
