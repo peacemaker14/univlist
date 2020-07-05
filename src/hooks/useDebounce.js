@@ -12,4 +12,4 @@ export default (effect, delay , deps) => {
             clearTimeout(handler);
         };
     }, [callback, delay]);
-}
+};
