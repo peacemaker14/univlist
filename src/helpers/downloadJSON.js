@@ -11,5 +11,3 @@ export default (data, fileName) => {
   link.click();
   document.body.removeChild(link);
 }
-
-// export default () => {}
